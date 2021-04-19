@@ -1,0 +1,17 @@
+{
+    "name": "rokis/coffe-friend",
+    "description": "margin counter for orders",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rokas",
+            "email": "rokas.lakstauskas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
